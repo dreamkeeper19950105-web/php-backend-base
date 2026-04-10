@@ -16,7 +16,7 @@
 **Admin:** dream@keeper.com  
 **Password:** secret
 
-**User:** dream@user.com  
+**User:** dream@user.com 
 **Password:** whatawonderful
 
 ### Official Documentation
