@@ -13,11 +13,11 @@
 
 ### Demo Credentials
 
-**Admin:** admin@admin.com  
+**Admin:** dream@keeper.com  
 **Password:** secret
 
-**User:** user@user.com  
-**Password:** secret
+**User:** dream@user.com  
+**Password:** whatawonderful
 
 ### Official Documentation
 
