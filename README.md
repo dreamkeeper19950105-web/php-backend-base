@@ -41,4 +41,4 @@ If you discover a security vulnerability within this boilerplate, please send an
 
 ### License
 
-MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
+MIT: MIT: [https://opensource.org](https://opensource.org)
