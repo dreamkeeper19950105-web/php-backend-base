@@ -9,7 +9,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/rappasoft/laravel-boilerplate.svg)
 ![GitHub stars](https://img.shields.io/github/stars/rappasoft/laravel-boilerplate.svg?style=social)
 
-### Enjoying this project? [Buy me a beer 🍺](https://www.buymeacoffee.com/rappasoft)
 
 ### Demo Credentials
 
@@ -23,13 +22,10 @@
 
 [Click here for the official documentation](http://laravel-boilerplate.com)
 
-### Slack Channel
-
-Please join us in our Slack channel to get faster responses to your questions. Get your invite here: https://laravel-5-boilerplate.herokuapp.com
 
 ### Introduction
 
-Laravel Boilerplate provides you with a massive head start on any size web application. Out of the box it has features like a backend built on CoreUI with Spatie/Permission authorization. It has a frontend scaffold built on Bootstrap 4. Other features such as Two Factor Authentication, User/Role management, searchable/sortable tables built on my [Laravel Livewire tables plugin](https://github.com/rappasoft/laravel-livewire-tables), user impersonation, timezone support, multi-lingual support with 20+ built in languages, demo mode, and much more.
+This is a robust Laravel Boilerplate that I maintain and use as a foundation for high-quality web applications. You can find more of my work and technical contributions on my GitHub Profile.
 
 ### Issues
 
