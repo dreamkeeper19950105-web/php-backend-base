@@ -16,7 +16,7 @@
 **Password:** secret
 
 **User:** dream@user.com 
-**Password:** whatawonderful
+**Password:** whoknowswhatmiracle
 
 ### Official Documentation
 
